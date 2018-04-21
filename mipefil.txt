@@ -1,0 +1,3 @@
+hernan,rodriguez,18
+daniel,ridriguez,45
+juan,perez,56

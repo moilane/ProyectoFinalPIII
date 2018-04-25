@@ -10,7 +10,7 @@ from collections import OrderedDict
 # Este es el error:    
 #  file.write(transaccion + '\n')
 # TypeError: unsupported operand type(s) for +: 'dict' and 'str'
-#En la cual lo tenia que se reemplazada con el codigo escrito abajo en la linea 95 respectivamente. 
+#En la cual lo tenia que se reemplazada con el codigo escrito abajo en la linea 96 respectivamente. 
 
 def opcion_1():
     """Efectivo"""
